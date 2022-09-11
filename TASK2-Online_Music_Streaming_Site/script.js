@@ -39,7 +39,7 @@ Amplitude.init({
 			"artist": "Elley Dulhe",
 		
 			"url": "MiddleOfNight.mp3",
-			"cover_art_url": "http://bigsongs.in/siteuploads/thumb/sft5/2058_4.jpg"
+			"cover_art_url": "https://i.ytimg.com/vi/lUanBjC22jo/maxresdefault.jpg"
 		},
 		{
 			"name": "June Ponal",
