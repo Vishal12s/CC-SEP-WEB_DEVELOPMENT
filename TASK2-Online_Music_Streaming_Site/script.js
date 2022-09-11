@@ -36,7 +36,7 @@ Amplitude.init({
 		},
 		{
 			"name": "Middle Of The Night",
-			"artist": "Elley Dulhe",
+			"artist": "Elley Duhé",
 		
 			"url": "MiddleOfNight.mp3",
 			"cover_art_url": "https://i.ytimg.com/vi/lUanBjC22jo/maxresdefault.jpg"
